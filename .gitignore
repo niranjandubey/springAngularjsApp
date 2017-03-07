@@ -7,3 +7,10 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.git*
+.classpath
+.name
+.project
+.idea*
+.settings
+SpringAngularJS.iml
